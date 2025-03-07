@@ -1,6 +1,4 @@
-#Python es conocido por su comunidad activa y su constante evolución. Algunas de las bibliotecas más populares son:La filosofía de Python hace énfasis en la legibilidad del código y en la simplicidad, lo que lo convierte en una excelente opción tanto para principiantes como para programadores experimentados.
 
-# Función para sumar
 def suma(a, b):
     return a + b
 
